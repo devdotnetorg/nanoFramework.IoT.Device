@@ -64,33 +64,33 @@
       },
       "UnitsNet.nanoFramework.ElectricCurrent": {
         "type": "Direct",
-        "requested": "[5.19.0, 5.19.0]",
-        "resolved": "5.19.0",
-        "contentHash": "7iUDRQp9tSyYAEMGpzRD02Kco0Al4Fln2VwEboxfl1Zr/bXOCYD3aUKf7ufeXMCjNUoED63SpJbiUvPvz+xDDA=="
+        "requested": "[5.24.0, 5.24.0]",
+        "resolved": "5.24.0",
+        "contentHash": "0uiZ/+S5olMap/oVyrqVwFmHrZWfZ1xk+cHPaXXZThCsYgAa0jlIU6Gu9ZP09MNoK8GjhBnuMWrdLvUNnYKD5A=="
       },
       "UnitsNet.nanoFramework.Length": {
         "type": "Direct",
-        "requested": "[5.19.0, 5.19.0]",
-        "resolved": "5.19.0",
-        "contentHash": "jjYseyjklTa+bBxfxlOHT7cwPPelrj0tazY6nqZ0RkcvlM9XHGQLp1wiRNEiWDByeWtB6kAX8n58YO7s7oXvZQ=="
+        "requested": "[5.24.0, 5.24.0]",
+        "resolved": "5.24.0",
+        "contentHash": "/EyLq85HT6fu0Zz3Zv4LGXIRnK2J24xhebFNzlAxX5nJWUfSFIuCkj2rZZlzcldYDuz0WTUFcEin+9sx58iH9Q=="
       },
       "UnitsNet.nanoFramework.RelativeHumidity": {
         "type": "Direct",
-        "requested": "[5.19.0, 5.19.0]",
-        "resolved": "5.19.0",
-        "contentHash": "+Rxhw01Lf5J3BltjzEPcLcA8WZQzQDgeU40OVEQQe91gRSMIyPx54/uCbYQIVceKy94UPFBoaolRJSZBZFBuPw=="
+        "requested": "[5.24.0, 5.24.0]",
+        "resolved": "5.24.0",
+        "contentHash": "mtTKFWUTQn/SjNGAnwXYPC4SwCoz6IUdhKhzFbUhQt8q7MU7ADWh+5ptgvj3NP9DFF/EZ4vHY/j44rX34D2W+w=="
       },
       "UnitsNet.nanoFramework.Temperature": {
         "type": "Direct",
-        "requested": "[5.19.0, 5.19.0]",
-        "resolved": "5.19.0",
-        "contentHash": "ok1FehTm2TCLqztJ4iB7l2cYrA7YHZHpzOme6s4Z4ALk5PgU8mFuNMy3LeTHdQPcvCcTDpWVv2I2Xi/smn5MEg=="
+        "requested": "[5.24.0, 5.24.0]",
+        "resolved": "5.24.0",
+        "contentHash": "15zN/c3+byYXU3R38jRhNjaTFs8bcHytxZsI94b6zln/TynPV6bYdgz0VNO18g7NidP80mO/Z0JM+6iUTWDF3g=="
       },
       "UnitsNet.nanoFramework.VolumeConcentration": {
         "type": "Direct",
-        "requested": "[5.19.0, 5.19.0]",
-        "resolved": "5.19.0",
-        "contentHash": "SIjtxB+eCKolbLSDMVEaa0Vge+fRMB644TZvsWZ32gAIruNHnp0gJBQmDa8epwiX8n/GvViZaxNerPoW7J+iDQ=="
+        "requested": "[5.24.0, 5.24.0]",
+        "resolved": "5.24.0",
+        "contentHash": "jYSWk59HdTZH1jScVPjrIOXvcceh4gAWARoF3AY31qVxgnsz4ynIMF4lRc+GWY/eWO4mhQXne7nbkRY9+4rQMg=="
       }
     }
   }
