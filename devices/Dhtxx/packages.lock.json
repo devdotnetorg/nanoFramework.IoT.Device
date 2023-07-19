@@ -58,15 +58,15 @@
       },
       "UnitsNet.nanoFramework.RelativeHumidity": {
         "type": "Direct",
-        "requested": "[5.19.0, 5.19.0]",
-        "resolved": "5.19.0",
-        "contentHash": "+Rxhw01Lf5J3BltjzEPcLcA8WZQzQDgeU40OVEQQe91gRSMIyPx54/uCbYQIVceKy94UPFBoaolRJSZBZFBuPw=="
+        "requested": "[5.26.0, 5.26.0]",
+        "resolved": "5.26.0",
+        "contentHash": "COQh2Hc4XoJ27KqpMZw2WC7JD6ntz/eeS5l5cgcYmUh3ep3wqK42zmu2Dc41FA1beNhNbdIZ+4rTfA+fWXBSQg=="
       },
       "UnitsNet.nanoFramework.Temperature": {
         "type": "Direct",
-        "requested": "[5.19.0, 5.19.0]",
-        "resolved": "5.19.0",
-        "contentHash": "ok1FehTm2TCLqztJ4iB7l2cYrA7YHZHpzOme6s4Z4ALk5PgU8mFuNMy3LeTHdQPcvCcTDpWVv2I2Xi/smn5MEg=="
+        "requested": "[5.26.0, 5.26.0]",
+        "resolved": "5.26.0",
+        "contentHash": "w8AHOoYeMmWHpFwa7/lu32GGLOCAy1ID0/GRugoEKV/FLLk7H5rXeFxk7g5FUN7rzBLLkvB+FqPchOS0bKW7MQ=="
       }
     }
   }
