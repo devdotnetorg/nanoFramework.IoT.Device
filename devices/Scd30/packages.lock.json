@@ -70,33 +70,33 @@
       },
       "UnitsNet.nanoFramework.Length": {
         "type": "Direct",
-        "requested": "[5.19.0, 5.19.0]",
-        "resolved": "5.19.0",
-        "contentHash": "jjYseyjklTa+bBxfxlOHT7cwPPelrj0tazY6nqZ0RkcvlM9XHGQLp1wiRNEiWDByeWtB6kAX8n58YO7s7oXvZQ=="
+        "requested": "[5.34.0, 5.34.0]",
+        "resolved": "5.34.0",
+        "contentHash": "uQ3pRslgJYn9BPN3zhXNEZkLdoOLEPMpJTyiPyLoASxHjXqKuJBtPQoLI1esYk41saM6OquCeY6ypjQGitbw4w=="
       },
       "UnitsNet.nanoFramework.Pressure": {
         "type": "Direct",
-        "requested": "[5.19.0, 5.19.0]",
-        "resolved": "5.19.0",
-        "contentHash": "oHWxtPhEWhp4Sz1GFyk5M3Hq/X0X9JuUikdt5k4sZP5CjcbrWYXyhBfjtuHCwo5DR80YokRy8qfRPvVwCsjFKQ=="
+        "requested": "[5.34.0, 5.34.0]",
+        "resolved": "5.34.0",
+        "contentHash": "TFZktA+qAHFmFL2T331uUbpeZos2v5x6fS5wEv1xVqrhn9FiQidqcGclrCnTaad6N+UQnUQPmx/1ijdRG8lQYQ=="
       },
       "UnitsNet.nanoFramework.RelativeHumidity": {
         "type": "Direct",
-        "requested": "[5.19.0, 5.19.0]",
-        "resolved": "5.19.0",
-        "contentHash": "+Rxhw01Lf5J3BltjzEPcLcA8WZQzQDgeU40OVEQQe91gRSMIyPx54/uCbYQIVceKy94UPFBoaolRJSZBZFBuPw=="
+        "requested": "[5.34.0, 5.34.0]",
+        "resolved": "5.34.0",
+        "contentHash": "bmqNIkJTz437nYfU2fHEd/WbvU4NuQc/qWXkn24+HQ+4fjYD+qn/SfEyboFY14oXrpu0MlS6YwV2+j4I/pv4AA=="
       },
       "UnitsNet.nanoFramework.Temperature": {
         "type": "Direct",
-        "requested": "[5.19.0, 5.19.0]",
-        "resolved": "5.19.0",
-        "contentHash": "ok1FehTm2TCLqztJ4iB7l2cYrA7YHZHpzOme6s4Z4ALk5PgU8mFuNMy3LeTHdQPcvCcTDpWVv2I2Xi/smn5MEg=="
+        "requested": "[5.34.0, 5.34.0]",
+        "resolved": "5.34.0",
+        "contentHash": "8b9A24UXzACoHM77CEOP8Wndzy9GuiWEhubDW152pKCdMElsbpMhXLv98rBtOP7GDDdu9ouvJJ3jDfS0P8VrEg=="
       },
       "UnitsNet.nanoFramework.VolumeConcentration": {
         "type": "Direct",
-        "requested": "[5.19.0, 5.19.0]",
-        "resolved": "5.19.0",
-        "contentHash": "SIjtxB+eCKolbLSDMVEaa0Vge+fRMB644TZvsWZ32gAIruNHnp0gJBQmDa8epwiX8n/GvViZaxNerPoW7J+iDQ=="
+        "requested": "[5.34.0, 5.34.0]",
+        "resolved": "5.34.0",
+        "contentHash": "AI/U2HzhEegclWRnk7wbF42WMwgc5X96l7x4dATfJC45r6afl6mWTfleiEXtFhkOKP7GnsEcm4wqcxPovDLPOw=="
       }
     }
   }
