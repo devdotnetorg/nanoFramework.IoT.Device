@@ -10,15 +10,15 @@
       },
       "nanoFramework.Iot.Device.Multiplexing": {
         "type": "Direct",
-        "requested": "[1.2.423, 1.2.423]",
-        "resolved": "1.2.423",
-        "contentHash": "LigBt8DUkr/c59Jmbcck9chOO0XFktTmWtAKnJwD0K7FwG1YVMUI73tO+04ms4wF109wdXw4xGru2w2BpmYAjA=="
+        "requested": "[1.2.543, 1.2.543]",
+        "resolved": "1.2.543",
+        "contentHash": "/RSsmlw7OtqAlzySzSMXL/gCdEt+L4ilIvgfXV0khD/mi98fPxkBQv/oZqHZNmzmlNzibESqbnDFYyHzEFThnw=="
       },
       "nanoFramework.Runtime.Events": {
         "type": "Direct",
-        "requested": "[1.11.15, 1.11.15]",
-        "resolved": "1.11.15",
-        "contentHash": "3uDNSTfiaewDAyi6fOMWYru0JCn/gr8DEv+Ro/V12SzojU9Dyxl5nSVOBtBXts7vErfIthB6SPiK180AMnrI8A=="
+        "requested": "[1.11.18, 1.11.18]",
+        "resolved": "1.11.18",
+        "contentHash": "t0XpUkdyBBBv/0S4oGx3yUJG1iPYWc38odvZW8mVoioSxZOJrRkRHpNfwYxTxtP4LIEyyesOPEH42d05FHfHzA=="
       },
       "nanoFramework.Runtime.Native": {
         "type": "Direct",
@@ -46,9 +46,9 @@
       },
       "nanoFramework.TestFramework": {
         "type": "Direct",
-        "requested": "[2.1.93, 2.1.93]",
-        "resolved": "2.1.93",
-        "contentHash": "9UU17y+omDZYWLUi5vwFw+t/aXCapen/w//LPOwylJyq9TSyR93LwqH3Y5jFAaqGglgaCegtaU/GLI2L7r2MYA=="
+        "requested": "[2.1.100, 2.1.100]",
+        "resolved": "2.1.100",
+        "contentHash": "WCJSvr4p0wSjKFQGRNAwNbcJEOOZLUo1t1KXH67Lj6s3mw71oKgKaRjUYDBEDyOMOYyrjxigY9PwQvo0zbn+5A=="
       }
     }
   }
