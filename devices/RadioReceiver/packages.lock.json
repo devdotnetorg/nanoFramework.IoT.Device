@@ -22,9 +22,9 @@
       },
       "Nerdbank.GitVersioning": {
         "type": "Direct",
-        "requested": "[3.6.133, 3.6.133]",
-        "resolved": "3.6.133",
-        "contentHash": "VZWMd5YAeDxpjWjAP/X6bAxnRMiEf6tES/ITN0X5CHJgkWLLeHGmEALivmTAfYM6P+P/3Szy6VCITUAkqjcHVw=="
+        "requested": "[3.7.115, 3.7.115]",
+        "resolved": "3.7.115",
+        "contentHash": "EpXamaAdRfG/BMxGgvZlTM0npRnkmXUjAj8OdNKd17t4oN+2nvjdv/KnFmzOOMDqvlwB49UCwtOHJrAQTfUBtQ=="
       },
       "StyleCop.MSBuild": {
         "type": "Direct",
@@ -34,9 +34,9 @@
       },
       "UnitsNet.nanoFramework.Frequency": {
         "type": "Direct",
-        "requested": "[5.49.0, 5.49.0]",
-        "resolved": "5.49.0",
-        "contentHash": "mKlA2Llar+OOQ8pWsXywcHIwMe8CqpqCflM5Ap0oxg9G6QRzvQIfoiz/Uq11ANF6gg4MhGlp4qx04f8HPaek/g=="
+        "requested": "[5.66.0, 5.66.0]",
+        "resolved": "5.66.0",
+        "contentHash": "V2r5b9trzgguL6c9cNuQ3/fFqGfJphI7n0WfeC5Kejffs7OCKHK9ypTlaRDIwfc2XDUZUM6Cf4aji5n1XpKkcQ=="
       }
     }
   }
